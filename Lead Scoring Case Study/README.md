@@ -20,6 +20,15 @@ The variables that mattered the most in the potential buyers are :-
 - When their current occupation is as a working professional keeping these in mind the X Education can flourish as they have a very high chance to get almost all the potential buyers to change their mind and buy their courses.
 
 
+
+![roc](https://user-images.githubusercontent.com/80200002/152579394-06075bfc-ce99-48fa-8b90-6ba1c3d73abf.jpg)
+
+
+
+
+
+
+
 ## Software and Libraries 
 
 [Python 2.7 or Higher](https://www.python.org/downloads/) 
