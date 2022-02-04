@@ -24,6 +24,15 @@ The most important features which affects the housing price are:
 - The overall material and finish of the house 
 
 - Overall condition of the house 
+
+
+## Result
+
+
+![regression lasso](https://user-images.githubusercontent.com/80200002/152574375-c61e6eba-0f5a-40ea-be21-b7119d798ff0.jpg)
+
+
+
 ## Software and Libraries 
 
 [Python 2.7 or Higher](https://www.python.org/downloads/) 
